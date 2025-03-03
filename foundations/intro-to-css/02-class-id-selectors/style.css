@@ -1,0 +1,21 @@
+
+
+#div_second {
+    color: blue;
+    font-size: 36px;
+}
+
+.p_first.cooler_third {
+    font-size: 24px;
+}
+
+#div_fourth {
+    background-color: rgb(143, 224, 143);
+  
+    font-weight: bold;
+}
+
+.odd {
+    background-color: rgb(207, 104, 121);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
